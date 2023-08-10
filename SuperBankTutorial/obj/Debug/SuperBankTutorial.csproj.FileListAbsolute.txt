@@ -1,0 +1,8 @@
+C:\Users\Masami\IT7742_Advanced_Programming\SuperBankTutorial\SuperBankTutorial\obj\Debug\SuperBankTutorial.csproj.AssemblyReference.cache
+C:\Users\Masami\IT7742_Advanced_Programming\SuperBankTutorial\SuperBankTutorial\obj\Debug\SuperBankTutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Masami\IT7742_Advanced_Programming\SuperBankTutorial\SuperBankTutorial\obj\Debug\SuperBankTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Masami\IT7742_Advanced_Programming\SuperBankTutorial\SuperBankTutorial\bin\Debug\SuperBankTutorial.exe.config
+C:\Users\Masami\IT7742_Advanced_Programming\SuperBankTutorial\SuperBankTutorial\bin\Debug\SuperBankTutorial.exe
+C:\Users\Masami\IT7742_Advanced_Programming\SuperBankTutorial\SuperBankTutorial\bin\Debug\SuperBankTutorial.pdb
+C:\Users\Masami\IT7742_Advanced_Programming\SuperBankTutorial\SuperBankTutorial\obj\Debug\SuperBankTutorial.exe
+C:\Users\Masami\IT7742_Advanced_Programming\SuperBankTutorial\SuperBankTutorial\obj\Debug\SuperBankTutorial.pdb
